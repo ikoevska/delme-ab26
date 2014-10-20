@@ -2,7 +2,7 @@
   "ProjectName": "ab26",
   "ProjectGuid": "16b67c7a-791f-4dae-9561-82166730ad64",
   "projectVersion": 1,
-  "AppIdentifier": "com.telerik.ab26",
+  "AppIdentifier": "com.telerik.ab26s",
   "DisplayName": "ab26",
   "Author": "",
   "Description": "",
@@ -10,7 +10,7 @@
   "AndroidVersionCode": "1",
   "iOSDeviceFamily": [
     "1",
-	"2"
+    "2"
   ],
   "iOSBackgroundMode": [],
   "WP8TileTitle": "",
